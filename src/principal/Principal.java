@@ -8,5 +8,6 @@ public class Principal {
 		Scanner teclado=new Scanner(System.in);
 		teclado.nextLine();
 		teclado.close();
+		System.out.println("nuevoBoton");
 	}
 }
